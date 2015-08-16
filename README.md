@@ -1,1 +1,1 @@
-## Simple Mmodel Loader using Three.js
+## Simple Model Loader using Three.js
